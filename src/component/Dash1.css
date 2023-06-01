@@ -1,0 +1,33 @@
+ .nav-bar-link:hover{
+    color: blue;
+}
+.navbar li{
+    display: inline-block;
+     padding: 10px,5px; 
+    
+ } 
+.nav-bar-link{
+   color: black;
+    text-decoration:none ;
+}
+ 
+.navbar{
+    height: 60px;
+}
+.nav-item{ 
+     margin-top: 8px;
+    color: black;
+} 
+
+#six{
+    margin-left: 10px;
+}
+#seven{
+margin-left: 12px;
+}
+.nav-bar-link active{
+    color: black;
+}
+#five{
+    margin-left: 0px; 
+} 
